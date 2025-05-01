@@ -1,0 +1,4 @@
+DUHACKS 
+1. logo
+2. navbar clicks working
+3. about section content 
